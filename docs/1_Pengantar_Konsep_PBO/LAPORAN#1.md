@@ -15,21 +15,23 @@ Sudah dapat memahami Konsep Dasar PBO
 
 Didalam percobaan ini, kita akan mendemonstrasikan bagaimana membuat class, membuat object, kemudian mengakses method didalam class tersebut. 
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+![Screenshot](img/Screenshot_1.png)
+![Screenshot](img/Screenshot_2.png)
 
-![contoh screenshot](img/Screenshot_1.PNG)
-
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Link kode program :
+[Sepeda1841720206Kaisar.java](../../src/1_Pengantar_Konsep_PBO/Sepeda1841720206Kaisar.java)
+[SepedaDemo1841720206Kaisar.java](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720206Kaisar.java)
 
 ### Percobaan 2
 
 Didalam percobaan ini, akan didemonstrasikan salah satu fitur yang paling penting dalam PBO, yaitu inheritance. Disini kita akan membuat class SepedaGunung yang mana adalah turunan/warisan dari class Sepeda. Pada dasarnya class SepedaGunung adalah sama dengan class Sepeda, hanya saja pada sepeda gunung terdapat tipe suspensi. Untuk itu kita tidak perlu membuat class Sepeda Gunung dari nol, tapi kita wariskan saja class Sepeda ke class SepedaGunung. 
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+![Screenshot](img/Screenshot_4.png)
+![Screenshot](img/Screenshot_5.png)
 
-![contoh screenshot](img/contoh-schot1.PNG)
-
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Link kode program :
+[SepedaGunung1841720206Kaisar.java](../../src/1_Pengantar_Konsep_PBO/SepedaGunung1841720206Kaisar.java)
+[SepedaDemo1841720206Kaisar.java](../../src/1_Pengantar_Konsep_PBO/SepedaDemo1841720206Kaisar.java)
 
 ## Pertanyaan
 
@@ -46,18 +48,19 @@ JAWABAN :
 2. Object adalah suatu rangkaian dalam program yang terdiri dari state dan behaviour. Sedangkan, Class adalah blueprint atau prototype dari objek.
 3. Knosep OOP lebih efisien dibandingkan pemrograman terstruktur.
 4. Merek, Kecepatan, Gear.
-5. 
+5. ![Screenshot](img/Screenshot_3.png)
 6. Karena SepedaGunung telah mewarisi class Sepeda (Inheritance).
 
 ## Tugas
 
 (silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+![Screenshot](img/Screenshot_7.png)
+![Screenshot](img/Screenshot_8.png)
 
-![contoh screenshot](img/contoh-schot1.PNG)
-
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+Link kode program :
+[Hewan1841720206Kaisar.java](../../src/1_Pengantar_Konsep_PBO/Hewan1841720206Kaisar.java)
+[HewanLain1841720206Kaisar.java](../../src/1_Pengantar_Konsep_PBO/HewanLain1841720206Kaisar.java)
 
 ## Kesimpulan
 
