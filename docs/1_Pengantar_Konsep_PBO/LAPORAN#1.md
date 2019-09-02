@@ -17,7 +17,7 @@ Didalam percobaan ini, kita akan mendemonstrasikan bagaimana membuat class, memb
 
 `contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
 
-![screenshot](img/Screenshot_1.PNG)
+![contoh screenshot](img/Screenshot_1.PNG)
 
 Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
