@@ -38,16 +38,22 @@ Contoh link kode program :
 
 Jelaskan pada bagian mana proses pendeklarasian atribut pada program diatas!
 - Semua Atribut dideklarasikan dengan public pada class Mahasiswa
+
 Jelaskan pada bagian mana proses pendeklarasian method pada program diatas!
 - Semua method dideklarasikan pada class Mahasiswa
+
 Berapa banyak objek yang di instansiasi pada program diatas!
 - 1 (satu)
+
  Apakah yang sebenarnya dilakukan pada sintaks program “mhs1.nim=101” ?
 - Memasukkan atribut nim pada mhs1 dengan nilai 101
+
  Apakah yang sebenarnya dilakukan pada sintaks program “mhs1.tampilBiodata()” ?
 - Memanggil method tampilBiodata pada mhs1
+
 Instansiasi 2 objek lagi pada program diatas!
 - Syntax :
+
         Mahasiswa1841720206Kaisar mhs2 = new Mahasiswa1841720206Kaisar();
         mhs2.nim = 102;
         mhs2.nama = "Citra";
