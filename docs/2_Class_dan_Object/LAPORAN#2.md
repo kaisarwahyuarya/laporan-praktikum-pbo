@@ -96,12 +96,25 @@ Link kode program :
 
 ## Tugas
 
-### Tugas1
+### Tugas2
 
 ![Screenshot](img/Screenshot_5.jpg)
 
+Link kode program :
+
 [Game1841720206Kaisar.java](../../src/2_Class_dan_Object/Game1841720206Kaisar.java)
+
 [TestGame1841720206Kaisar.java](../../src/2_Class_dan_Object/TestGame1841720206Kaisar.java)
+
+### Tugas3
+
+![Screenshot](img/Screenshot_6.jpg)
+
+Link kode program :
+
+[Lingkaran1841720206Kaisar.java](../../src/2_Class_dan_Object/Lingkaran1841720206Kaisar.java)
+
+[TestLingkaran1841720206Kaisar.java](../../src/2_Class_dan_Object/TestLingkaran1841720206Kaisar.java)
 
 ## Kesimpulan
 
