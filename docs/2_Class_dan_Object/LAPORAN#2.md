@@ -1,12 +1,18 @@
-# Laporan Praktikum #1 - Pengantar Konsep PBO
+# Laporan Praktikum #2 - Class dan Object
 
 ## Kompetensi
 
-(ketiklah kompetensi tiap praktikum di sini)
+ Mahasiswa dapat memahami deskripsi dari class dan object 
+ Mahasiswa memahami implementasi dari class 
+ Mahasiswa dapat memahami implementasi dari attribute 
+ Mahasiswa dapat memahami implementasi dari method 
+ Mahasiswa dapat memahami implementasi dari proses instansiasi 
+ Mahasiswa dapat memahami implementasi dari try-catch 
+ Mahasiswa dapat memahami proses pemodelan class diagram menggunakan UML 
 
 ## Ringkasan Materi
 
-(berisi catatan penting pribadi selama praktikum berlangsung ataupun menemukan permasalahan khusus saat melakukan percobaan)
+Saya sudah dapat memahami setiap implementasi pada Jobsheet yang diberikan
 
 ## Percobaan
 
@@ -22,13 +28,14 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 ### Percobaan 2
 
-(berisi penjelasan percobaan 2. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+ Membuat dan mengakses anggota suatu class
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+![Screenshot](img/Screenshot_3.jpg)
 
-![contoh screenshot](img/contoh-schot1.PNG)
+Contoh link kode program :
+[Mahasiswa1841720206Kaisar.java](../../src/2_Class_dan_Object/Mahasiswa1841720206Kaisar.java)
+[TestMahasiswa1841720206Kaisar.java](../../src/2_Class_dan_Object/TestMahasiswa1841720206Kaisar.java)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
 
 ## Pertanyaan
 
