@@ -38,8 +38,10 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 ![Screenshot](img/Screenshot_3.jpg)
 
-Contoh link kode program :
+Link kode program :
+
 [Mahasiswa1841720206Kaisar.java](../../src/2_Class_dan_Object/Mahasiswa1841720206Kaisar.java)
+
 [TestMahasiswa1841720206Kaisar.java](../../src/2_Class_dan_Object/TestMahasiswa1841720206Kaisar.java)
 
 Jelaskan pada bagian mana proses pendeklarasian atribut pada program diatas!
@@ -80,8 +82,10 @@ Menulis method yang memiliki argument/parameter dan memiliki return
 
 ![Screenshot](img/Screenshot_4.jpg)
 
-Contoh link kode program :
+Link kode program :
+
 [Barang1841720206Kaisar.java](../../src/2_Class_dan_Object/Barang1841720206Kaisar.java)
+
 [TestBarang1841720206Kaisar.java](../../src/2_Class_dan_Object/TestBarang1841720206Kaisar.java)
 
  Apakah fungsi argumen dalam suatu method
