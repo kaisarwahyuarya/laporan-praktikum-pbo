@@ -116,6 +116,16 @@ Link kode program :
 
 [TestLingkaran1841720206Kaisar.java](../../src/2_Class_dan_Object/TestLingkaran1841720206Kaisar.java)
 
+### Tugas4
+
+![Screenshot](img/Screenshot_7.jpg)
+
+Link kode program :
+
+[Barang_Tugas1841720206Kaisar.java](../../src/2_Class_dan_Object/Barang_Tugas1841720206Kaisar.java)
+
+[BarangMain1841720206Kaisar.java](../../src/2_Class_dan_Object/BarangMain1841720206Kaisar.java)
+
 ## Kesimpulan
 
 Fungsi dan variabel dalam sebuah objek atau class dapat saling berinteraksi, sehingga membentuk sebuah program.
