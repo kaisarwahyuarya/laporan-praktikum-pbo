@@ -80,6 +80,7 @@ Contoh link kode program :
 
  Apakah fungsi argumen dalam suatu method
  - Untuk menambahkan data dari luar method
+ 
  Ambil kesimpulan tentang kegunaan dari kata kunci return , dan kapan suatu method harus memiliki return!
  - return berfungsi untuk mengembalikkan nilai akhir dari suatu method return dapat digunakan hanya pada method yang memiliki nilai misalnya meethod bertipe integer
 
@@ -95,7 +96,7 @@ Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengant
 
 ## Kesimpulan
 
-(Berisi simpulan yang telah diperoleh selama praktikum atau belajar pada pertemuan ini)
+Fungsi dan variabel dalam sebuah objek atau class dapat saling berinteraksi, sehingga membentuk sebuah program.
 
 ## Pernyataan Diri
 
