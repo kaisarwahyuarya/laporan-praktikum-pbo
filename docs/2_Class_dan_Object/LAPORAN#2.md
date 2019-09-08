@@ -2,13 +2,19 @@
 
 ## Kompetensi
 
- Mahasiswa dapat memahami deskripsi dari class dan object 
- Mahasiswa memahami implementasi dari class 
- Mahasiswa dapat memahami implementasi dari attribute 
- Mahasiswa dapat memahami implementasi dari method 
- Mahasiswa dapat memahami implementasi dari proses instansiasi 
- Mahasiswa dapat memahami implementasi dari try-catch 
- Mahasiswa dapat memahami proses pemodelan class diagram menggunakan UML 
+ Mahasiswa dapat memahami deskripsi dari class dan object
+
+ Mahasiswa memahami implementasi dari class
+
+ Mahasiswa dapat memahami implementasi dari attribute
+
+ Mahasiswa dapat memahami implementasi dari method
+
+ Mahasiswa dapat memahami implementasi dari proses instansiasi
+
+ Mahasiswa dapat memahami implementasi dari try-catch
+
+ Mahasiswa dapat memahami proses pemodelan class diagram menggunakan UML
 
 ## Ringkasan Materi
 
