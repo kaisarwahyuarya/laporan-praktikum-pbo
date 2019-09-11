@@ -43,6 +43,35 @@ Link kode program :
 
 [MotorEnkapsulasi1841720206Kaisar.java](../../src/3_Enkapsulasi/MotorEnkapsulasi1841720206Kaisar.java)
 
+### Percobaan 3
+
+Misalkan di sebuah sistem informasi koperasi, terdapat class Anggota. Anggota memiliki atribut
+nama, alamat dan simpanan, dan method setter, getter dan setor dan pinjam. Semua atribut pada
+anggota tidak boleh diubah sembarangan, melainkan hanya dapat diubah melalui method setter,
+getter, setor dan tarik. Khusus untuk atribut simpanan tidak terdapat setter karena simpanan akan
+bertambah ketika melakukan transaksi setor dan akan berkurang ketika melakukan
+peminjaman/tarik.
+
+![Screenshot](img/Screenshot_3.jpg)
+
+Link kode program :
+
+[Anggota1841720206Kaisar.java](../../src/3_Enkapsulasi/Anggota1841720206Kaisar.java)
+
+[KoperasiDemo1841720206Kaisar.java](../../src/3_Enkapsulasi/KoperasiDemo1841720206Kaisar.java)
+
+### Percobaan 4
+
+Konstruktor, Instansiasi dari percobaan 3
+
+![Screenshot](img/Screenshot_4.jpg)
+
+Link kode program :
+
+[Anggota1841720206Kaisar.java](../../src/3_Enkapsulasi/Anggota1841720206Kaisar.java)
+
+[KoperasiDemo1841720206Kaisar.java](../../src/3_Enkapsulasi/KoperasiDemo1841720206Kaisar.java)
+
 ## Pertanyaan
 
 (silakan ketik pertanyaan di sini beserta jawabannya.)
