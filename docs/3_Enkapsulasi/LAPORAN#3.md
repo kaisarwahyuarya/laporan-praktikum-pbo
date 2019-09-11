@@ -22,7 +22,7 @@ proses suatu objek dari pengguna.
 Didalam percobaan enkapsulasi, buatlah class Motor yang memiliki atribut kecepatan dan kontakOn,
 dan memiliki method printStatus() untuk menampilkan status motor.
 
-![Screenshot](img/Screenshot_1.JPG)
+![Screenshot](img/Screenshot_1.jpg)
 
 Link kode program :
 
@@ -35,7 +35,7 @@ Link kode program :
 Pada percobaan ini akan digunakan access modifier untuk memperbaiki cara kerja class Motor pada
 percobaan ke-1.
 
-![Screenshot](img/Screenshot_2.JPG)
+![Screenshot](img/Screenshot_2.jpg)
 
 Link kode program :
 
