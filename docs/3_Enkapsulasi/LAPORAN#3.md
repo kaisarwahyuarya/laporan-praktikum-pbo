@@ -72,19 +72,63 @@ Link kode program :
 
 [KoperasiDemo1841720206Kaisar.java](../../src/3_Enkapsulasi/KoperasiDemo1841720206Kaisar.java)
 
-## Pertanyaan
-
-(silakan ketik pertanyaan di sini beserta jawabannya.)
 
 ## Tugas
 
-(silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+### Tugas 1
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+![Screenshot](img/Screenshot_5.jpg)
 
-![contoh screenshot](img/contoh-schot1.PNG)
+Link kode program :
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+[T1EncapDemo1841720206Kaisar.java](../../src/3_Enkapsulasi/T1EncapDemo1841720206Kaisar.java)
+
+[T1EncapTest1841720206Kaisar.java](../../src/3_Enkapsulasi/T1EncapTest1841720206Kaisar.java)
+
+### Tugas 2
+
+Pada program diatas, pada class EncapTest kita mengeset age dengan nilai 35, namun pada
+saat ditampilkan ke layar nilainya 30, jelaskan mengapa.
+
+Jawab :
+
+Karena di kelas EncapDemo dalam method setAge “if(newAge > 30)” menandakan
+bahwa tidak bisa melebihi angka 30, Karena nilai 30 adalah angka maksimal.
+Melainkan jika memasukkan nilai kurang dari 30 maka hasilnya akan sesuai dengan
+yang di inputkan.
+
+### Tugas 3
+
+Ubah program diatas agar atribut age dapat diberi nilai maksimal 30 dan minimal 18.
+
+![Screenshot](img/Screenshot_6.jpg)
+
+Hasil output : 0 karena age lebih dari 30
+
+Link kode program :
+
+[T3EncapDemo1841720206Kaisar.java](../../src/3_Enkapsulasi/T3EncapDemo1841720206Kaisar.java)
+
+[T3EncapTest1841720206Kaisar.java](../../src/3_Enkapsulasi/T3EncapTest1841720206Kaisar.java)
+
+### Tugas 4
+
+. Pada sebuah sistem informasi koperasi simpan pinjam, terdapat class Anggota yang memiliki
+atribut antara lain nomor KTP, nama, limit peminjaman, dan jumlah pinjaman. Anggota
+dapat meminjam uang dengan batas limit peminjaman yang ditentukan. Anggota juga dapat
+mengangsur pinjaman. Ketika Anggota tersebut mengangsur pinjaman, maka jumlah
+pinjaman akan berkurang sesuai dengan nominal yang diangsur. Buatlah class Anggota
+tersebut, berikan atribut, method dan konstruktor sesuai dengan kebutuhan. Uji dengan
+TestKoperasi berikut ini untuk memeriksa apakah class Anggota yang anda buat telah sesuai
+dengan yang diharapkan.
+
+![Screenshot](img/Screenshot_7.jpg)
+
+Link kode program :
+
+[T4Anggota1841720206Kaisar.java](../../src/3_Enkapsulasi/T4Anggota1841720206Kaisar.java)
+
+[T4TestKoperasi1841720206Kaisar.java](../../src/3_Enkapsulasi/T4TestKoperasi1841720206Kaisar.java)
 
 ## Kesimpulan
 
