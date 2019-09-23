@@ -1,4 +1,4 @@
-# Laporan Praktikum #3 - Enkapsulasi
+# Laporan Praktikum #4 - Relasi Class
 
 ## Kompetensi
 
@@ -135,9 +135,9 @@ Jawaban :
 
 Link kode program :
 
-[Pegawai.java](../../src/4_Relasi_Class/Mobil1841720206Kaisar.java)
+[Pegawai.java](../../src/4_Relasi_Class/Pegawai1841720206Kaisar.java)
 
-[KeretaApi.java](../../src/4_Relasi_Class/Sopir1841720206Kaisar.java)
+[KeretaApi.java](../../src/4_Relasi_Class/KeretaApi1841720206Kaisar.java)
 
 [MainPercobaan3.java](../../src/4_Relasi_Class/MainPercobaan31841720206Kaisar.java)
 
@@ -170,6 +170,54 @@ Perbaikannya memiliki sintaks yang sama dengan :
 [MainPercobaan3.java](../../src/4_Relasi_Class/MainPercobaan31841720206Kaisar.java)
 
 ### Percobaan 4
+
+ Membuat class Kursi, Penumpang, Gerbong, dan Main.
+ 
+ ![Screenshot](img/Screenshot_4.jpg)
+
+Link kode program :
+
+[Penumpang.java](../../src/4_Relasi_Class/Penumpang1841720206Kaisar.java)
+
+[Kursi.java](../../src/4_Relasi_Class/Kursi1841720206Kaisar.java)
+
+[Gerbong.java](../../src/4_Relasi_Class/Gerbong1841720206Kaisar.java)
+
+[MainPercobaan4.java](../../src/4_Relasi_Class/MainPercobaan41841720206Kaisar.java)
+
+## Pertanyaan
+
+1. Pada main program dalam class MainPercobaan4, berapakah jumlah kursi dalam Gerbong A ?
+
+Jawaban :
+
+- 10 (Sepuluh).
+
+2. Perhatikan potongan kode pada method info() dalam class Kursi. Apa maksud kode tersebut ? 
+ 
+... if (this.penumpang != null) { info += "Penumpang: " + penumpang.info() + "\n"; } ... 
+
+Jawaban :
+
+- Jika penumpang sudah terisi maka akan menampilkan info dari penumpang tersebut.
+ 
+3. Mengapa pada method setPenumpang() dalam class Gerbong, nilai nomor dikurangi dengan angka 1 ?
+
+Jawaban :
+
+- Untuk mengurangi indeks penumpang saat dieksekusi.
+
+4. Instansiasi objek baru budi dengan tipe Penumpang, kemudian masukkan objek baru tersebut pada gerbong dengan gerbong.setPenumpang(budi, 1). Apakah yang terjadi ?
+
+Jawaban :
+
+- Output yang keluar menggantikan objek p yang sebelumnya karena memiliki nomor kursi yang sama.
+
+5. Modifikasi program sehingga tidak diperkenankan untuk menduduki kursi yang sudah ada penumpang lain !
+
+Jawaban :
+
+- 
 
 ## Tugas
 
