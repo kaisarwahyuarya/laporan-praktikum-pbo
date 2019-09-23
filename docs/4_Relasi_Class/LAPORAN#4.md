@@ -221,13 +221,21 @@ Jawaban :
 
 ## Tugas
 
-(silakan kerjakan tugas di sini beserta `screenshot` hasil kompilasi program. Jika ada rujukan ke file program, bisa dibuat linknya di sini.)
+ Membuat class Pesawat, Tiket, Tujuan, Customer, dan Main.
+ 
+ ![Screenshot](img/Screenshot_5.jpg)
 
-`contoh screenshot yang benar, menampilkan 3 komponen, yaitu struktur project, kode program, dan hasil kompilasi`
+Link kode program :
 
-![contoh screenshot](img/contoh-schot1.PNG)
+[Pesawat.java](../../src/4_Relasi_Class/Pesawat1841720206Kaisar.java)
 
-Contoh link kode program : [ini contoh link ke kode program](../../src/1_Pengantar_Konsep_PBO/Contoh12345Habibie.java)
+[Tiket.java](../../src/4_Relasi_Class/Tiket1841720206Kaisar.java)
+
+[Tujuan.java](../../src/4_Relasi_Class/Tujuan1841720206Kaisar.java)
+
+[Customer.java](../../src/4_Relasi_Class/Customer1841720206Kaisar.java)
+
+[MainTugas.java](../../src/4_Relasi_Class/MainTugas1841720206Kaisar.java)
 
 ## Kesimpulan
 
