@@ -330,6 +330,8 @@ Link kode program :
 
 [Mac.java](../../src/6_Inheritance/Mac1841720206Kaisar.java)
 
+[Windows.java](../../src/6_Inheritance/Windows1841720206Kaisar.java)
+
 [MainTugas.java](../../src/6_Inheritance/MainTugas1841720206Kaisar.java)
 
 ## Kesimpulan
