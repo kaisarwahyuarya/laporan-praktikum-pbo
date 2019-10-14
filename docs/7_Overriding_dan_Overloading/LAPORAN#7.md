@@ -1,4 +1,4 @@
-# Laporan Praktikum #6 - INHERITANCE(PEWARISAN)
+# Laporan Praktikum #7 - Overriding dan Overloading
 
 ## Kompetensi
 
@@ -141,6 +141,22 @@ Link kode program :
 [Segitiga.java](../../src/7_Overriding_dan_Overloading/Segitiga1841720206Kaisar.java)
 
 [MainTugas1.java](../../src/7_Overriding_dan_Overloading/MainTugas11841720206Kaisar.java)
+
+### Tugas 2
+
+1. Implementasikan class diagram dengan menggunakan teknik dynamic method dispatch :
+
+![Screenshot](img/Screenshot_6.jpg)
+
+Link kode program :
+
+[Manusia.java](../../src/7_Overriding_dan_Overloading/Manusia1841720206Kaisar.java)
+
+[Mahasiswa.java](../../src/7_Overriding_dan_Overloading/Mahasiswa1841720206Kaisar.java)
+
+[Dosen.java](../../src/7_Overriding_dan_Overloading/Dosen1841720206Kaisar.java)
+
+[MainManusia.java](../../src/7_Overriding_dan_Overloading/MainManusia1841720206Kaisar.java)
 
 ## Kesimpulan
 
