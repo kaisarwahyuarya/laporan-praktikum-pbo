@@ -140,7 +140,7 @@ Buatlah Sebuah Program yang mempunyai fungsi seperti kalkulator (mampu menjumlah
 
 link kode program: 
 
-[Kalkulator.java](../../src/11_GUI/Kalkulator21841720206Kaisar.java)
+[Kalkulator.java](../../src/11_GUI/Kalkulator1841720206Kaisar.java)
 
 ## Kesimpulan
 
